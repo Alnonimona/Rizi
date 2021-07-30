@@ -55,6 +55,9 @@ ua = random.choice(['Mozilla/5.0 (Linux; Android 9; RMX1941) AppleWebKit/537.36 
 'Mozilla/5.0 (Linux; Android 8.0.0; ATU-L11 Build/HUAWEIATU-L11; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/325.0.0.36.170;]'])
 ##### LOGO #####
 logo = """
+
+
+
  =================================
  ☟︎︎︎ 𓇽Author   : ALFAHRIZI         ☟︎︎︎    
  ☟︎︎︎ 𓇽whatsapp : +6283171036693    ☟︎︎︎
