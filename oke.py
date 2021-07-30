@@ -61,7 +61,6 @@ logo = """
  📎telegram : t.me/asu27839
  
  PEMULA DALAM CODING PYTHON
-
 """
 ips=None
 try:
