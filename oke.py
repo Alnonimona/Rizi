@@ -61,6 +61,7 @@ logo = """
  📎telegram : t.me/asu27839
  
  PEMULA DALAM CODING PYTHON
+
 """
 ips=None
 try:
@@ -189,12 +190,12 @@ def menu():
   print (' *•> Akun ID : '+id)
   print (' *•> Tanggal Lahir : '+tl)
 
-  print ('\n 🖇1 Crack ID Dari Teman')
-  print (' 🖇2 Crack ID Dari Publik')
-  print (' 🖇3 Crack ID Dari Followers')
-  print (' 🖇4 Crack ID Dari Like')
-  print (' 🖇5 Lihat Hasil Crack')
-  print (' 🖇0 Keluar (Hapus Token/Cookies)\n')
+  print ('\n 🔐1 Hack ID Dari Teman')
+  print (' 🔐2 Hack ID Dari Publik')
+  print (' 🔐3 Hack ID Dari Followers')
+  print (' 🔐4 Hack ID Dari Like')
+  print (' 🔐5 Lihat Hasil Hack')
+  print (' 🔐0 Keluar (Hapus Token/Cookies)\n')
   mn=raw_input(" ---> Input : ")
   if mn=="":
 	print (' *! Isi Dengan Benar')
