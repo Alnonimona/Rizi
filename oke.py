@@ -55,11 +55,12 @@ ua = random.choice(['Mozilla/5.0 (Linux; Android 9; RMX1941) AppleWebKit/537.36 
 'Mozilla/5.0 (Linux; Android 8.0.0; ATU-L11 Build/HUAWEIATU-L11; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/325.0.0.36.170;]'])
 ##### LOGO #####
 logo = """
-  __  __ ____  _____
- |  \/  | __ )|  ___| *au : Alfah Rizi
- | |\/| |  _ \| |_    *fb : Akun Fb RIP
- | |  | | |_) |  _|   *gh : github.com/Rizi
- |_|  |_|____/|_|     *wa : 083171036693
+ 
+ 📎nama : ALFAHRIZI
+ 📎whatsapp : +6283171036693
+ 📎telegram : t.me/asu27839
+ 
+ PEMULA DALAM CODING PYTHON
 """
 ips=None
 try:
@@ -188,13 +189,13 @@ def menu():
   print (' *•> Akun ID : '+id)
   print (' *•> Tanggal Lahir : '+tl)
 
-  print ('\n *1 Crack ID Dari Teman')
-  print (' *2 Crack ID Dari Publik')
-  print (' *3 Crack ID Dari Followers')
-  print (' *4 Crack ID Dari Like')
-  print (' *5 Lihat Hasil Crack')
-  print (' *0 Keluar (Hapus Token/Cookies)\n')
-  mn=raw_input(" *-> Input : ")
+  print ('\n 🖇1 Crack ID Dari Teman')
+  print (' 🖇2 Crack ID Dari Publik')
+  print (' 🖇3 Crack ID Dari Followers')
+  print (' 🖇4 Crack ID Dari Like')
+  print (' 🖇5 Lihat Hasil Crack')
+  print (' 🖇0 Keluar (Hapus Token/Cookies)\n')
+  mn=raw_input(" ---> Input : ")
   if mn=="":
 	print (' *! Isi Dengan Benar')
 	menu()
@@ -849,7 +850,7 @@ class crack2:
 				else:continue
 					
 			self.ko+=1
-			print "\r *Crack %s/%s *Ok : %s - *Cp : %s"%(self.ko,len(self.fl),len(self.ada),len(self.cp)),;sys.stdout.flush()
+			print "\r 🛵Crack %s/%s *Ok : %s - *Cp : %s"%(self.ko,len(self.fl),len(self.ada),len(self.cp)),;sys.stdout.flush()
 		except:
 			self.main(fl)
 
